@@ -4,4 +4,4 @@
 
 [SVG 2 STL](https://svg2stl.com/)
 
-[SVG Editot](https://boxy-svg.com/)
+[SVG Editor](https://boxy-svg.com/app)
